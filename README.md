@@ -1,6 +1,6 @@
 # FitnessTracker
 
-Fitness Tracker is software that tracks your gym session logs and help you make progress.
+FitnessTracker is software that tracks your gym session logs and help you make progress.
 
 
 FEATURES:
